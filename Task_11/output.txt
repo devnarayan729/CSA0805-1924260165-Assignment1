@@ -1,0 +1,5 @@
+1. Use Decimal values constructed from input text for rates and payments.
+2. Round the rate to two decimal places and each farmer entry to paisa.
+3. Keep rate cards in one module or configuration file.
+4. Stream entries into a running total when individual history is not needed.
+5. At district scale, use database-backed records and audit logs.
