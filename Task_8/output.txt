@@ -1,0 +1,5 @@
+Entry     Rate    Payment   Running total
+    1    30.00     300.00          300.00
+    2    33.40     283.90          583.90
+    3    27.80     333.60          917.50
+Three-entry total: Rs 917.50
