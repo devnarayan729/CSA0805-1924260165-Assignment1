@@ -1,0 +1,15 @@
+PASS standard: expected=30.00, actual=30.00
+PASS fat and SNF above: expected=33.40, actual=33.40
+PASS fat and SNF below: expected=27.80, actual=27.80
+PASS minimum fat: expected=24.00, actual=24.00
+PASS maximum fat: expected=44.00, actual=44.00
+PASS standard payout: expected=300.00, actual=300.00
+PASS five-entry hand total: expected=1345.50, actual=1345.50
+PASS whitespace numeric parsing: 8.5
+PASS rejected invalid decimal: eight
+PASS rejected invalid decimal: 8,5
+PASS rejected invalid decimal: NaN
+PASS rejected invalid decimal: Infinity
+PASS rejected negative quantity
+PASS rejected low fat
+PASS rejected high fat

@@ -1,0 +1,7 @@
+Number of entries: Farmer      Shift        Litres     Rate    Payment
+Farmer ID: Shift (morning/evening): Litres: Fat percentage: SNF percentage: F001        morning       10.00    30.00     300.00
+Farmer ID: Shift (morning/evening): Litres: Fat percentage: SNF percentage: F002        evening        8.50    33.40     283.90
+Farmer ID: Shift (morning/evening): Litres: Fat percentage: SNF percentage: F003        morning       12.00    27.80     333.60
+Farmer ID: Shift (morning/evening): Litres: Fat percentage: SNF percentage: F004        evening        5.00    24.00     120.00
+Farmer ID: Shift (morning/evening): Litres: Fat percentage: SNF percentage: F005        morning        7.00    44.00     308.00
+Ten-day total: Rs 1345.50
