@@ -1,0 +1,9 @@
+  Entries      Decimal total        Float total     Difference
+      300           70576.50           70576.50   1.455192E-11
+Decimal time=0.000536s, float time=0.000397s
+     6000         1366451.84         1366451.84    1.871027E-8
+Decimal time=0.010621s, float time=0.007522s
+   150000        34519658.44        34519658.44    2.036005E-5
+Decimal time=0.284472s, float time=0.196986s
+Rate cache: 3 unique pairs, same total Rs 34519658.44; uncached=0.281852s, cached=0.085699s
+Rounding example: each payment=0.80, round once=0.78
