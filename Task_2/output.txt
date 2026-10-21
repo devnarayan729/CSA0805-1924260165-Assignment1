@@ -1,0 +1,19 @@
+type(10) = int
+type(10.0) = float
+type('10') = str
+type(True) = bool
+type([10, 8.5]) = list
+7 / 2 = 3.5
+7 // 2 = 3
+7 % 2 = 1
+-7 // 2 = -4
+0.1 + 0.2 == 0.3 = False
+Decimal equality = True
+float  : 33400.30000000061
+Decimal: 33400.30
+Integer paise: 3340030
+Rounded float: 33400.3
+Decimal(float('0.1')): 0.1000000000000000055511151231257827021181583404541015625
+sys.getsizeof(int paise): 28
+sys.getsizeof(float rupees): 24
+sys.getsizeof(Decimal rupees): 120
