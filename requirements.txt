@@ -1,0 +1,13 @@
+# Task 1: decimal
+# Task 2: decimal, sys
+# Task 3: decimal
+# Task 4: decimal, math
+# Task 5: decimal
+# Task 6: collections.abc, decimal
+# Task 7: decimal, Task_7.milkrate
+# Task 8: decimal
+# Task 9: decimal, Task_7.milkrate
+# Task 10: decimal, random, time
+# Task 11: none
+# Task 12: dataclasses, decimal
+# All listed libraries are included with Python 3.15. No third-party packages required.

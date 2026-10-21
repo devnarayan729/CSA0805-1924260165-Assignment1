@@ -3,8 +3,8 @@
 **Name:** Dev Narayan E
 **Register number:** 1924260165
 **Python version:** 3.15
-**Libraries:** Python standard library only. No third-party packages are
-required; `requirements.txt` is intentionally empty.
+**Libraries:** Python standard-library modules are listed in
+`requirements.txt`. No third-party packages are required.
 
 The full analysis, pseudocode, diagrams, complexity comparisons, tests and
 measured evidence for all tasks are in [Assignment_Report.md](Assignment_Report.md).
