@@ -1,0 +1,5 @@
+10 int
+ten str
+Milk measurements: 10 3.5 8.5
+After swapping: evening morning
+Rate card: {'base': Decimal('30.00'), 'fat_step': Decimal('0.40'), 'snf_step': Decimal('0.30')}
