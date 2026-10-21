@@ -1,0 +1,15 @@
+(4.2 - 3.5) / 0.1 = 7.000000000000002
+0.1 + 0.2 == 0.3 = False
+-7 // 2 = -4
+int(-3.9) = -3
+math.floor(-3.9) = -4
+round(2.5) = 2
+round(-2.5) = -2
+-2 ** 2 = -4
+(-2) ** 2 = 4
+2 ** 3 ** 2 = 512
+fat=4.2: nearest=7, int rate=32.80, floor rate=32.80, nearest rate=32.80
+fat=3.1: nearest=-4, int rate=28.80, floor rate=28.40, nearest rate=28.40
+Chained range check: True
+Boolean validation: True
+10 L payment: 334.00
