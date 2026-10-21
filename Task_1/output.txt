@@ -1,0 +1,5 @@
+Inputs: farmer_id, litres, fat, snf, shift
+Types: {'farmer_id': 'str', 'litres': 'Decimal', 'fat': 'Decimal', 'snf': 'Decimal', 'shift': 'str'}
+Rate-card constants: 30.00 0.40 0.30
+Validation limits: 2.0 7.0 0.0 20.0
+Example entry: {'farmer_id': 'F001', 'litres': Decimal('10.0'), 'fat': Decimal('3.5'), 'snf': Decimal('8.5'), 'shift': 'morning'}
