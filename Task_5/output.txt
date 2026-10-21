@@ -1,0 +1,2 @@
+Farmer ID: Shift (morning/evening): Litres: Fat percentage: SNF percentage: Farmer      Shift           Litres     Fat     SNF
+F001        morning          10.00    3.50    8.50
