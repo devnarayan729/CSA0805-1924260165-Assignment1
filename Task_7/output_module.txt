@@ -1,0 +1,3 @@
+   10 L  fat 3.5  snf 8.5  rate  30.00  pay   300.00
+  8.5 L  fat 4.2  snf 8.7  rate  33.40  pay   283.90
+   12 L  fat 3.1  snf 8.3  rate  27.80  pay   333.60
