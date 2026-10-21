@@ -1,0 +1,3 @@
+regular: litres=501, rate=33.10, milk pay=16583.10, bonus=250.50, total=16833.60
+april_june: litres=501, rate=35.45, milk pay=17760.45, bonus=250.50, total=18010.95
+Bonus at exactly 500 L: 0.00
