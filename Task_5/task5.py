@@ -14,7 +14,7 @@ litres = read_decimal("Litres: ")
 fat = read_decimal("Fat percentage: ")
 snf = read_decimal("SNF percentage: ")
 
-if litres <= 5:
+if litres <= 0:
     print("Invalid quantity.")
 elif not Decimal("2.0") <= fat <= Decimal("7.0"):
     print("Invalid fat percentage.")
