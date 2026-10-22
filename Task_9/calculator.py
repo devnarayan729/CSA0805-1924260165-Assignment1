@@ -16,7 +16,7 @@ def parse_decimal(text):
     except (InvalidOperation, AttributeError) as error:
         raise ValueError(f"Invalid decimal value: {text!r}") from error
     if not value.is_finite():
-        raise ValueError("Measurements must be finite numbers.")
+        raise ValueError("Measurements must be finite numbers")
     return value
 
 
